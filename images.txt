@@ -1,1 +1,1 @@
-nvidia/cuda:11.8.0-base
+text-generation-inference:latest
