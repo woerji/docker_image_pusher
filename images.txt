@@ -1,1 +1,1 @@
-text-generation-inference:latest
+ghcr.io/huggingface/text-generation-inference:latest
