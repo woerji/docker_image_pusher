@@ -1,1 +1,2 @@
 ghcr.io/huggingface/text-generation-inference:latest
+xprobe/xinference:latest-gpu
