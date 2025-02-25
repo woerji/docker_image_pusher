@@ -1,1 +1,1 @@
-ghcr.io/huggingface/text-generation-inference:sha-cea9dbc-trtllm
+xprobe/xinference:latest
