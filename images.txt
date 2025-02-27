@@ -1,1 +1,1 @@
-xprobe/xinference:latest
+ghcr.io/huggingface/text-generation-inference
